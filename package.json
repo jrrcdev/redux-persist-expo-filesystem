@@ -18,6 +18,6 @@
     "react-native"
   ],
   "peerDependencies": {
-    "expo-file-system": ">=5"
+    "expo-file-system": ">=14.0.0"
   }
 }
